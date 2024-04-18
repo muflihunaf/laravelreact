@@ -3,7 +3,7 @@
 API ini menyediakan endpoint untuk mengelola data pengguna dan inventaris barang.
 
 ## Instalasi
-
+Jangan Lupa Import Database dan konfigurasi di file .env
 Sebelum menggunakan API ini, pastikan Anda telah menginstal dependensi yang diperlukan. Jalankan perintah berikut di terminal:
 
 ```bash

@@ -9,6 +9,7 @@ Sebelum menggunakan API ini, pastikan Anda telah menginstal dependensi yang dipe
 ```bash
 composer install
 npm install
+npm run build
 ```
 
 # Dokumentasi API
@@ -55,9 +56,3 @@ API ini menyediakan endpoint untuk mengelola data pengguna dan inventaris barang
 - Untuk melihat inventaris barang, buat permintaan `GET` ke `/barang`.
 - Untuk menambahkan barang ke inventaris, buat permintaan `POST` ke `/barang/simpan`.
 
-## Contoh
-
-### Permintaan
-
-```http
-GET /
